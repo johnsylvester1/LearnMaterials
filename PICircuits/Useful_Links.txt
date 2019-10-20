@@ -1,0 +1,15 @@
+IBM Temperature Sensore 
+https://developer.ibm.com/courses/labs/lab-1-overview-dwc013/
+https://developer.ibm.com/recipes/tutorials/iot-temperature-and-moisture-sensor-integrated-to-node-red-and-bluemix-ibm/
+
+Bread Board
+http://www.instructables.com/id/Building-Circuits-The-Beauty-of-Breadboards/
+http://www.instructables.com/id/A-Complete-Guide-To-Basic-Electronics/
+http://www.instructables.com/id/Breadboard-Basics-for-Absolute-Begginers/
+https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-breadboard
+
+Twitter , Node Red Links
+https://github.com/rwaldron/johnny-five/wiki/Getting-started-with-Raspberry-Pi-node-red-and-IoT
+https://diyprojects.io/node-red-module-dashboard-gui/#.W0hz6teWbIU
+https://discourse.nodered.org/t/new-twitter-node-available-upgrade-required/664
+https://nodered.org/docs/hardware/raspberrypi

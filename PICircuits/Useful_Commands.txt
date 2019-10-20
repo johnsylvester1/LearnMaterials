@@ -1,0 +1,48 @@
+####################################
+#we will configure it to auto start on Raspberry pi reboot.
+sudo systemctl enable nodered.service
+
+Use   sudo systemctl enable nodered.service  to autostart Node-RED at every boot
+Use   sudo systemctl disable nodered.service to disable autostart on boot
+
+#################################### 
+#Force resolution to 1280 X 720
+# Go to :
+sudo nano /boot/config.txt
+# Enable width , height as follows :
+framebuffer_width=1280
+framebuffer_height=720
+
+##### Telegram Bot
+johnsylvester is the name of the bot
+
+JohnSylvesterBot
+
+https://developer.ibm.com/code/howtos/integrate-coversation-service-with-telegram-using-node-red
+Use this token to access the HTTP API:
+605333164:AAGDJCqyQX8grzBkVw--T_hDMc9zNnviOto
+
+
+##########Twitter
+
+Consumer Key (API Key)	Pta1bmUt3WqhHbSMfOFMNPOtJ (manage keys and access tokens)
+Consumer Key (API Key)	Pta1bmUt3WqhHbSMfOFMNPOtJ
+Consumer Secret (API Secret)	sBiTBAagLJlqV1eUZtobwLyjz78HIqaOy4xR45xwkspoi3ecm3
+
+
+Access Token	408486114-vTJreReIFxDbcI45jeLRoAcgGZ3ifuaW1UGl3GNl
+Access Token Secret	ZEsr4jtXysyObcmUhNX5JtOsfgkAs722aeKzaFKmsZFI3
+Access Level	Read and write
+
+
+Callback URL	None
+Sign in with Twitter	Yes
+App-only authentication	https://api.twitter.com/oauth2/token
+Request token URL	https://api.twitter.com/oauth/request_token
+Authorize URL	https://api.twitter.com/oauth/authorize
+Access token URL	https://api.twitter.com/oauth/access_token
+
+
+
+
+https://diyprojects.io/node-red-install-uninstall-easely-modules-palette-manager/#.Wz4Gt9eWbIU

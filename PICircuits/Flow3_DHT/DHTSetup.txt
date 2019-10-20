@@ -1,0 +1,51 @@
+
+http://www.raspberry-projects.com/pi/programming-in-c/io-pins/bcm2835-by-mike-mccauley
+
+
+Get BCM2835
+
+http://www.airspayce.com/mikem/bcm2835/bcm2835-1.56.tar.gz
+
+https://www.npmjs.com/package/node-red-contrib-iotclouddev
+https://www.npmjs.com/package/node-dht-sensor
+
+
+
+
+https://medium.com/dyi-electronics/raspberry-pi-and-dht11-humidity-sensor-cccf6b3072ad
+
+
+
+Basically if you see the circuit diagram you would find following connection.
+
+VCC of DHT11 -> 5v Pin of Raspberry Pi 3
+
+GND of DHT11 -> GND Pin of Raspberry Pi 3
+
+Signal pin of DHT11 -> GPIO 4 Pin of Raspberry Pi3
+
+
+
+https://developer.ibm.com/recipes/tutorials/how-to-register-devices-in-ibm-iot-foundation/
+
+
+johnsylvesterbackup1@gmail.com
+
+ID: vi4nr5
+
+Device Type
+DHT11FromHome
+Device ID
+DHT11Device
+
+Serial Number
+10006
+Model
+DHT11
+View Metadata
+Security Token
+zxcasdqwe123
+
+Watson IOT Platform 
+API Key : a-vi4nr5-kinoiexkm6
+Authentication token : wd5tdHjOdLO3utE*Bx
