@@ -1,0 +1,36 @@
+1. Choose all the tasks that you can do with IBM App Connect Enterprise.
+
+Select one or more:
+a.Send a message to one or multiple destinations that depend data content
+Correct!
+b.Create a workflow with long-running or manual processes  --> Wrong
+c.Use a database to select or store message information
+Correct
+d.Transform messages so that diverse applications can understand and process them
+Correct
+
+2.What basic Kafka concept can be described as an "immutable sequence of records"?
+
+Select one:
+a. Topic Correct!
+b. Producer
+c. Consumer
+d. Broker 
+
+3. A producer decides which partition in a topic that a message is written to.  Ans : True 
+
+4. Consumers can start reading from any offset on a topic. 
+
+Select one:
+True  Correct 
+False
+
+5.How is Kafka able to provide horizontal scaling and fault tolerance?
+
+Select one:
+a. by replicating producers
+b. by replicating partitions Correct!
+c. by having an odd number of brokers
+d. by replicating consumers
+Feedback
+Your answer is correct. 
